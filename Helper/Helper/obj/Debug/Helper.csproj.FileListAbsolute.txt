@@ -1,0 +1,9 @@
+c:\users\dotnet2\documents\visual studio 2012\Projects\Helper\Helper\bin\Debug\Helper.exe.config
+c:\users\dotnet2\documents\visual studio 2012\Projects\Helper\Helper\bin\Debug\Helper.exe
+c:\users\dotnet2\documents\visual studio 2012\Projects\Helper\Helper\bin\Debug\Helper.pdb
+c:\users\dotnet2\documents\visual studio 2012\Projects\Helper\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+c:\users\dotnet2\documents\visual studio 2012\Projects\Helper\Helper\obj\Debug\Helper.Form1.resources
+c:\users\dotnet2\documents\visual studio 2012\Projects\Helper\Helper\obj\Debug\Helper.Properties.Resources.resources
+c:\users\dotnet2\documents\visual studio 2012\Projects\Helper\Helper\obj\Debug\Helper.csproj.GenerateResource.Cache
+c:\users\dotnet2\documents\visual studio 2012\Projects\Helper\Helper\obj\Debug\Helper.exe
+c:\users\dotnet2\documents\visual studio 2012\Projects\Helper\Helper\obj\Debug\Helper.pdb

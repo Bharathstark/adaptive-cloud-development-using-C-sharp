@@ -1,0 +1,6 @@
+c:\users\dotnet2\documents\visual studio 2012\Projects\ServerApp\ServerApp\bin\Debug\ServerApp.exe.config
+c:\users\dotnet2\documents\visual studio 2012\Projects\ServerApp\ServerApp\bin\Debug\ServerApp.exe
+c:\users\dotnet2\documents\visual studio 2012\Projects\ServerApp\ServerApp\bin\Debug\ServerApp.pdb
+c:\users\dotnet2\documents\visual studio 2012\Projects\ServerApp\ServerApp\obj\Debug\ServerApp.csprojResolveAssemblyReference.cache
+c:\users\dotnet2\documents\visual studio 2012\Projects\ServerApp\ServerApp\obj\Debug\ServerApp.exe
+c:\users\dotnet2\documents\visual studio 2012\Projects\ServerApp\ServerApp\obj\Debug\ServerApp.pdb

@@ -1,0 +1,9 @@
+c:\users\dotnet2\documents\visual studio 2012\Projects\Peer\Peer\bin\Debug\Peer.exe.config
+c:\users\dotnet2\documents\visual studio 2012\Projects\Peer\Peer\bin\Debug\Peer.exe
+c:\users\dotnet2\documents\visual studio 2012\Projects\Peer\Peer\bin\Debug\Peer.pdb
+c:\users\dotnet2\documents\visual studio 2012\Projects\Peer\Peer\obj\Debug\Peer.csprojResolveAssemblyReference.cache
+c:\users\dotnet2\documents\visual studio 2012\Projects\Peer\Peer\obj\Debug\Peer.Form1.resources
+c:\users\dotnet2\documents\visual studio 2012\Projects\Peer\Peer\obj\Debug\Peer.Properties.Resources.resources
+c:\users\dotnet2\documents\visual studio 2012\Projects\Peer\Peer\obj\Debug\Peer.csproj.GenerateResource.Cache
+c:\users\dotnet2\documents\visual studio 2012\Projects\Peer\Peer\obj\Debug\Peer.exe
+c:\users\dotnet2\documents\visual studio 2012\Projects\Peer\Peer\obj\Debug\Peer.pdb
